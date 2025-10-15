@@ -8,7 +8,7 @@ Frontend: HTML, CSS, JavaScript (React or similar framework)
 Version Control: Git and GitHub
 Design Tools: Figma for UI/UX design
 
-## UI/UX DESIGN PLANNING.
+## ✏️UI/UX DESIGN PLANNING.
 
 ## Design Goals
 Create intuitive booking flow
@@ -88,19 +88,19 @@ Scrum Master -	Facilitates agile processes, removes blockers, organizes meetings
 Planned Components
 1. Navbar
 
-Logo
-Search bar
-User navigation
-Responsive menu
-Property Card
+-Logo
+-Search bar
+-User navigation
+-Responsive menu
+-Property Card
 
 2. Property image
-Basic details (price, location, rating)
-Favorite button
-Responsive layout
-Footer
+-Basic details (price, location, rating)
+-Favorite button
+-Responsive layout
+-Footer
 
 3. Site links
-Company information
-Social media links
-Copyright information
+-Company information
+-Social media links
+-Copyright information
